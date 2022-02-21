@@ -1,5 +1,4 @@
-echo "Please enter your username"
-read username
+read "Please enter your username:" username
 echo "Please enter your password"
-read -s password
+read -s "Please enter your password:"  password
 echo "Welcome to the zell application"
